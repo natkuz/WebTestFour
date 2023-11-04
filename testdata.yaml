@@ -10,11 +10,11 @@ title: "Cat-paw"
 description: "Post about cat-paw"
 content: "Cutie cat-paw"
 contact_name: "Test"
-contact_email: "nv8282@mail.ru"
+contact_email: "nv@mail.ru"
 contact_content: "Test Test"
 mail_password: '9zvDpYCQ451mUbnvtsXa'
-from_addr_report: 'nv8282@mail.ru'
-to_addr_report: 'nv8282@mail.ru'
+from_addr_report: 'nv@mail.ru'
+to_addr_report: 'nv@mail.ru'
 text_search: 'One Montgomery Tower'
 lat: '37.7891838'
 long: '-122.4033522'
