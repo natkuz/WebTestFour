@@ -1,0 +1,20 @@
+address: "https://test-stand.gb.ru"
+address_api: "https://en.wikipedia.org/w/api.php"
+wsdl: "https://speller.yandex.net/services/spellservice?WSDL"
+driver_path: "chromedriver.exe"
+browser: chrome
+sleep_time: 3
+login: 'kristy.cloud'
+password: '78458ab8df'
+title: "Cat-paw"
+description: "Post about cat-paw"
+content: "Cutie cat-paw"
+contact_name: "Test"
+contact_email: "nv8282@mail.ru"
+contact_content: "Test Test"
+mail_password: '9zvDpYCQ451mUbnvtsXa'
+from_addr_report: 'nv8282@mail.ru'
+to_addr_report: 'nv8282@mail.ru'
+text_search: 'One Montgomery Tower'
+lat: '37.7891838'
+long: '-122.4033522'
